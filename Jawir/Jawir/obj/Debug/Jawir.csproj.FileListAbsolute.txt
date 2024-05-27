@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Jawir\Jawir\bin\Debug\Jawir.exe.config
+C:\Users\ACER\source\repos\Jawir\Jawir\bin\Debug\Jawir.exe
+C:\Users\ACER\source\repos\Jawir\Jawir\bin\Debug\Jawir.pdb
+C:\Users\ACER\source\repos\Jawir\Jawir\obj\Debug\Jawir.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Jawir\Jawir\obj\Debug\Jawir.Form1.resources
+C:\Users\ACER\source\repos\Jawir\Jawir\obj\Debug\Jawir.Properties.Resources.resources
+C:\Users\ACER\source\repos\Jawir\Jawir\obj\Debug\Jawir.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Jawir\Jawir\obj\Debug\Jawir.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Jawir\Jawir\obj\Debug\Jawir.exe
+C:\Users\ACER\source\repos\Jawir\Jawir\obj\Debug\Jawir.pdb
